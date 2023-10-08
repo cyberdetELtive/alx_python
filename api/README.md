@@ -1,0 +1,2 @@
+Project README - Employee Task Manager
+This project is a Python script that gathers data from a REST API and performs various operations on the retrieved data. The API used for this project is the jsonplaceholder.typicode.com API, which provides information about employees and their TODO lists.
